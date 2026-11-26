@@ -1,0 +1,1001 @@
+order_id,order_date,branch,product_name,quantity,unit_price_kes,channel
+DK00001,2026-04-02,Nairobi,Smartphone,1,15000,In-Store
+DK00002,2026-05-26,Mombasa,Laptop,1,55000,Online
+DK00003,2026-02-15,Mombasa,Wireless Headphones,1,3500,Online
+DK00004,2026-01-18,Kisumu,Wireless Headphones,1,3500,Online
+DK00005,2026-05-03,Kisumu,Wireless Headphones,1,3500,Online
+DK00006,2026-05-08,Nairobi,Smart TV,1,35000,In-Store
+DK00007,2026-01-26,Kisumu,Soundbar,1,8000,Online
+DK00008,2026-04-15,Nairobi,Smartphone,1,15000,In-Store
+DK00009,2026-03-29,Kisumu,Laptop,1,55000,In-Store
+DK00010,2026-05-09,Nairobi,Smartphone,1,15000,In-Store
+DK00011,2026-01-15,Nairobi,Soundbar,1,8000,In-Store
+DK00012,2026-01-28,Nakuru,Soundbar,3,8000,Online
+DK00013,2026-01-19,Nakuru,Laptop,2,55000,Online
+DK00014,2026-06-24,Mombasa,Smart TV,1,35000,In-Store
+DK00015,2026-05-04,Nairobi,Wireless Headphones,1,3500,Online
+DK00016,2026-01-29,Nairobi,Smart TV,1,35000,In-Store
+DK00017,2026-01-01,Nairobi,Wireless Headphones,1,3500,Online
+DK00018,2026-05-30,Nairobi,Wireless Headphones,3,3500,Online
+DK00019,2026-03-29,Nairobi,Smartphone,1,15000,In-Store
+DK00020,2026-01-02,Nairobi,Smartphone,1,15000,In-Store
+DK00021,2026-04-30,Nairobi,Laptop,1,55000,In-Store
+DK00022,2026-05-11,Nairobi,Wireless Headphones,1,3500,Online
+DK00023,2026-03-15,Nakuru,Laptop,1,55000,Online
+DK00024,2026-02-25,Kisumu,Smartphone,1,15000,In-Store
+DK00025,2026-01-28,Kisumu,Wireless Headphones,3,3500,In-Store
+DK00026,2026-03-10,Kisumu,Wireless Headphones,1,3500,Online
+DK00027,2026-05-19,Nairobi,Smartphone,1,15000,In-Store
+DK00028,2026-06-09,Kisumu,Laptop,1,55000,Online
+DK00029,2026-02-08,Nakuru,Wireless Headphones,1,3500,Online
+DK00030,2026-03-13,Nakuru,Smartphone,1,15000,In-Store
+DK00031,2026-03-24,Mombasa,Smartphone,1,15000,Online
+DK00032,2026-04-07,Nakuru,Soundbar,1,8000,In-Store
+DK00033,2026-03-13,Kisumu,Smart TV,1,35000,Online
+DK00034,2026-04-22,Nairobi,Laptop,1,55000,Online
+DK00035,2026-04-28,Mombasa,Wireless Headphones,1,3500,Online
+DK00036,2026-01-03,Nairobi,Soundbar,1,8000,In-Store
+DK00037,2026-01-03,Nairobi,Laptop,1,55000,In-Store
+DK00038,2026-05-06,Mombasa,Wireless Headphones,2,3500,Online
+DK00039,2026-05-26,Kisumu,Soundbar,1,8000,In-Store
+DK00040,2026-06-21,Nairobi,Smartphone,2,15000,In-Store
+DK00041,2026-04-07,Nairobi,Laptop,2,55000,Online
+DK00042,2026-03-14,Mombasa,Smartphone,1,15000,Online
+DK00043,2026-02-03,Nairobi,Smartphone,1,15000,Online
+DK00044,2026-06-02,Kisumu,Smart TV,2,35000,Online
+DK00045,2026-01-22,Nairobi,Smartphone,1,15000,Online
+DK00046,2026-02-11,Mombasa,Wireless Headphones,2,3500,Online
+DK00047,2026-03-28,Kisumu,Laptop,1,55000,Online
+DK00048,2026-04-09,Nakuru,Smartphone,1,15000,In-Store
+DK00049,2026-04-13,Nairobi,Smart TV,1,35000,Online
+DK00050,2026-02-14,Nairobi,Laptop,1,55000,In-Store
+DK00051,2026-02-14,Nairobi,Laptop,1,55000,In-Store
+DK00052,2026-02-07,Nairobi,Wireless Headphones,1,3500,Online
+DK00053,2026-02-25,Nairobi,Wireless Headphones,1,3500,Online
+DK00054,2026-04-26,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00055,2026-02-08,Mombasa,Wireless Headphones,2,3500,Online
+DK00056,2026-01-06,Nairobi,Laptop,1,55000,Online
+DK00057,2026-04-28,Nairobi,Laptop,1,55000,In-Store
+DK00058,2026-06-29,Nairobi,Wireless Headphones,3,3500,Online
+DK00059,2026-05-15,Kisumu,Smartphone,1,15000,In-Store
+DK00060,2026-05-07,Nairobi,Smart TV,1,35000,Online
+DK00061,2026-03-14,Nairobi,Wireless Headphones,2,3500,In-Store
+DK00062,2026-02-18,Kisumu,Smartphone,1,15000,In-Store
+DK00063,2026-04-29,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00064,2026-04-20,Kisumu,Smartphone,1,15000,Online
+DK00065,2026-05-17,Nairobi,Soundbar,1,8000,Online
+DK00066,2026-01-10,Kisumu,Soundbar,1,8000,In-Store
+DK00067,2026-02-12,Nairobi,Smartphone,1,15000,Online
+DK00068,2026-05-01,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00069,2026-06-14,Kisumu,Smart TV,1,35000,In-Store
+DK00070,2026-06-02,Nairobi,Smartphone,3,15000,Online
+DK00071,2026-05-16,Kisumu,Laptop,3,55000,Online
+DK00072,2026-05-27,Nakuru,Wireless Headphones,1,3500,Online
+DK00073,2026-06-19,Nairobi,Smart TV,1,35000,In-Store
+DK00074,2026-01-24,Mombasa,Soundbar,1,8000,Online
+DK00075,2026-05-22,Kisumu,Soundbar,1,8000,In-Store
+DK00076,2026-01-27,Nairobi,Laptop,1,55000,In-Store
+DK00077,2026-03-22,Mombasa,Smartphone,1,15000,Online
+DK00078,2026-04-30,Nairobi,Soundbar,1,8000,In-Store
+DK00079,2026-03-04,Nairobi,Smartphone,1,15000,Online
+DK00080,2026-02-21,Nairobi,Smartphone,1,15000,In-Store
+DK00081,2026-02-12,Kisumu,Smartphone,2,15000,Online
+DK00082,2026-06-18,Kisumu,Laptop,1,55000,Online
+DK00083,2026-01-06,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00084,2026-04-14,Nakuru,Smartphone,2,15000,Online
+DK00085,2026-01-22,Nakuru,Smartphone,1,15000,In-Store
+DK00086,2026-04-12,Nairobi,Laptop,1,55000,Online
+DK00087,2026-05-14,Kisumu,Wireless Headphones,1,3500,Online
+DK00088,2026-05-18,Nairobi,Laptop,3,55000,In-Store
+DK00089,2026-02-04,Nairobi,Laptop,1,55000,In-Store
+DK00090,2026-06-09,Kisumu,Soundbar,1,8000,In-Store
+DK00091,2026-03-01,Mombasa,Soundbar,1,8000,In-Store
+DK00092,2026-03-25,Mombasa,Smartphone,1,15000,Online
+DK00093,2026-06-14,Nairobi,Soundbar,2,8000,Online
+DK00094,2026-04-12,Kisumu,Smart TV,1,35000,In-Store
+DK00095,2026-06-02,Nakuru,Laptop,1,55000,In-Store
+DK00096,2026-01-15,Kisumu,Laptop,3,55000,In-Store
+DK00097,2026-06-02,Kisumu,Laptop,1,55000,In-Store
+DK00098,2026-06-17,Nairobi,Soundbar,1,8000,Online
+DK00099,2026-01-25,Nairobi,Smartphone,1,15000,Online
+DK00100,2026-06-11,Mombasa,Laptop,1,55000,In-Store
+DK00101,2026-04-11,Kisumu,Smart TV,1,35000,Online
+DK00102,2026-01-10,Nairobi,Smartphone,1,15000,In-Store
+DK00103,2026-05-12,Nairobi,Laptop,1,55000,In-Store
+DK00104,2026-03-05,Nakuru,Wireless Headphones,2,3500,Online
+DK00105,2026-02-13,Nairobi,Smart TV,2,35000,In-Store
+DK00106,2026-06-11,Kisumu,Smartphone,1,15000,In-Store
+DK00107,2026-02-22,Mombasa,Laptop,1,55000,Online
+DK00108,2026-04-17,Nakuru,Soundbar,1,8000,In-Store
+DK00109,2026-02-25,Nairobi,Laptop,1,55000,In-Store
+DK00110,2026-02-27,Kisumu,Smartphone,1,15000,Online
+DK00111,2026-04-11,Nakuru,Laptop,1,55000,Online
+DK00112,2026-03-05,Kisumu,Wireless Headphones,1,3500,Online
+DK00113,2026-04-04,Nairobi,Laptop,3,55000,In-Store
+DK00114,2026-05-01,Nakuru,Smartphone,1,15000,Online
+DK00115,2026-04-05,Kisumu,Smartphone,1,15000,In-Store
+DK00116,2026-05-05,Kisumu,Smartphone,1,15000,Online
+DK00117,2026-05-29,Nairobi,Smartphone,1,15000,In-Store
+DK00118,2026-01-27,Kisumu,Laptop,1,55000,Online
+DK00119,2026-01-21,Nakuru,Smartphone,1,15000,In-Store
+DK00120,2026-03-22,Kisumu,Wireless Headphones,2,3500,In-Store
+DK00121,2026-05-09,Mombasa,Laptop,1,55000,Online
+DK00122,2026-06-01,Nakuru,Soundbar,1,8000,Online
+DK00123,2026-03-23,Nairobi,Wireless Headphones,1,3500,Online
+DK00124,2026-05-31,Nairobi,Smartphone,1,15000,Online
+DK00125,2026-02-04,Nakuru,Smartphone,1,15000,Online
+DK00126,2026-05-07,Mombasa,Smartphone,1,15000,Online
+DK00127,2026-05-04,Nairobi,Laptop,1,55000,In-Store
+DK00128,2026-05-27,Mombasa,Smart TV,1,35000,In-Store
+DK00129,2026-01-02,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00130,2026-05-05,Nakuru,Laptop,1,55000,Online
+DK00131,2026-04-06,Nairobi,Soundbar,1,8000,In-Store
+DK00132,2026-06-01,Nairobi,Laptop,3,55000,Online
+DK00133,2026-06-01,Nairobi,Smart TV,1,35000,In-Store
+DK00134,2026-03-06,Nairobi,Soundbar,1,8000,Online
+DK00135,2026-04-13,Nairobi,Smartphone,1,15000,In-Store
+DK00136,2026-01-13,Nairobi,Laptop,1,55000,In-Store
+DK00137,2026-01-19,Kisumu,Smart TV,2,35000,In-Store
+DK00138,2026-01-18,Mombasa,Smart TV,1,35000,Online
+DK00139,2026-04-26,Nairobi,Wireless Headphones,1,3500,Online
+DK00140,2026-04-18,Nakuru,Laptop,3,55000,Online
+DK00141,2026-06-16,Mombasa,Laptop,1,55000,In-Store
+DK00142,2026-01-03,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00143,2026-06-02,Kisumu,Smartphone,1,15000,In-Store
+DK00144,2026-06-02,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00145,2026-01-28,Nairobi,Soundbar,1,8000,Online
+DK00146,2026-02-04,Kisumu,Smartphone,1,15000,Online
+DK00147,2026-05-29,Nairobi,Smartphone,1,15000,In-Store
+DK00148,2026-05-28,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00149,2026-05-29,Mombasa,Smartphone,1,15000,Online
+DK00150,2026-03-06,Nakuru,Smartphone,1,15000,Online
+DK00151,2026-05-27,Nairobi,Soundbar,1,8000,In-Store
+DK00152,2026-01-20,Nakuru,Smartphone,1,15000,Online
+DK00153,2026-06-30,Kisumu,Laptop,1,55000,In-Store
+DK00154,2026-03-08,Nakuru,Smartphone,1,15000,Online
+DK00155,2026-02-01,Nairobi,Laptop,1,55000,In-Store
+DK00156,2026-01-02,Nairobi,Smartphone,1,15000,Online
+DK00157,2026-05-16,Nairobi,Smart TV,1,35000,In-Store
+DK00158,2026-02-06,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00159,2026-01-02,Nairobi,Smartphone,3,15000,Online
+DK00160,2026-01-27,Nairobi,Smart TV,1,35000,Online
+DK00161,2026-03-21,Mombasa,Laptop,1,55000,In-Store
+DK00162,2026-06-26,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00163,2026-04-17,Mombasa,Smartphone,1,15000,In-Store
+DK00164,2026-03-20,Nairobi,Smart TV,1,35000,In-Store
+DK00165,2026-04-09,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00166,2026-04-10,Kisumu,Smartphone,1,15000,In-Store
+DK00167,2026-01-30,Mombasa,Soundbar,1,8000,Online
+DK00168,2026-01-11,Nairobi,Smartphone,3,15000,Online
+DK00169,2026-01-29,Nairobi,Smartphone,1,15000,In-Store
+DK00170,2026-01-11,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00171,2026-05-13,Nairobi,Smartphone,1,15000,In-Store
+DK00172,2026-04-19,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00173,2026-05-14,Nakuru,Laptop,1,55000,In-Store
+DK00174,2026-03-03,Nairobi,Soundbar,1,8000,Online
+DK00175,2026-04-03,Kisumu,Soundbar,1,8000,Online
+DK00176,2026-02-23,Mombasa,Smartphone,3,15000,In-Store
+DK00177,2026-04-24,Nairobi,Soundbar,1,8000,Online
+DK00178,2026-01-30,Mombasa,Smartphone,1,15000,In-Store
+DK00179,2026-01-13,Nairobi,Smart TV,1,35000,Online
+DK00180,2026-05-18,Nairobi,Smartphone,3,15000,In-Store
+DK00181,2026-02-07,Kisumu,Smart TV,1,35000,Online
+DK00182,2026-06-20,Mombasa,Smart TV,1,35000,In-Store
+DK00183,2026-02-21,Nakuru,Soundbar,1,8000,Online
+DK00184,2026-03-08,Nairobi,Soundbar,2,8000,Online
+DK00185,2026-05-19,Nairobi,Smartphone,1,15000,Online
+DK00186,2026-03-10,Mombasa,Laptop,2,55000,Online
+DK00187,2026-02-07,Kisumu,Smart TV,3,35000,Online
+DK00188,2026-02-22,Kisumu,Smartphone,2,15000,In-Store
+DK00189,2026-05-21,Nairobi,Laptop,1,55000,Online
+DK00190,2026-02-01,Nairobi,Smartphone,1,15000,In-Store
+DK00191,2026-03-25,Nairobi,Smartphone,1,15000,Online
+DK00192,2026-02-26,Mombasa,Laptop,1,55000,In-Store
+DK00193,2026-03-14,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00194,2026-05-29,Nairobi,Laptop,2,55000,In-Store
+DK00195,2026-04-26,Kisumu,Laptop,2,55000,In-Store
+DK00196,2026-01-16,Nairobi,Wireless Headphones,1,3500,Online
+DK00197,2026-05-06,Nakuru,Soundbar,1,8000,Online
+DK00198,2026-05-29,Mombasa,Smartphone,1,15000,In-Store
+DK00199,2026-04-28,Nairobi,Smartphone,1,15000,Online
+DK00200,2026-01-10,Kisumu,Wireless Headphones,1,3500,Online
+DK00201,2026-04-03,Nairobi,Smart TV,3,35000,Online
+DK00202,2026-04-08,Mombasa,Laptop,1,55000,In-Store
+DK00203,2026-01-06,Mombasa,Smartphone,1,15000,In-Store
+DK00204,2026-05-19,Nairobi,Smart TV,1,35000,Online
+DK00205,2026-01-27,Nakuru,Smart TV,1,35000,Online
+DK00206,2026-03-03,Nairobi,Smart TV,1,35000,In-Store
+DK00207,2026-02-27,Mombasa,Smartphone,2,15000,In-Store
+DK00208,2026-06-08,Nairobi,Smartphone,1,15000,Online
+DK00209,2026-06-20,Mombasa,Soundbar,1,8000,In-Store
+DK00210,2026-05-18,Nakuru,Soundbar,1,8000,Online
+DK00211,2026-03-06,Nairobi,Smartphone,1,15000,Online
+DK00212,2026-04-27,Mombasa,Laptop,1,55000,In-Store
+DK00213,2026-04-28,Mombasa,Smartphone,3,15000,Online
+DK00214,2026-03-07,Nairobi,Wireless Headphones,1,3500,Online
+DK00215,2026-02-16,Mombasa,Smartphone,2,15000,Online
+DK00216,2026-01-25,Nakuru,Smartphone,3,15000,In-Store
+DK00217,2026-03-24,Kisumu,Smartphone,3,15000,In-Store
+DK00218,2026-04-18,Mombasa,Soundbar,1,8000,Online
+DK00219,2026-05-11,Nairobi,Laptop,1,55000,Online
+DK00220,2026-02-06,Nairobi,Smartphone,1,15000,Online
+DK00221,2026-04-27,Nakuru,Wireless Headphones,1,3500,Online
+DK00222,2026-06-09,Kisumu,Wireless Headphones,1,3500,Online
+DK00223,2026-05-20,Kisumu,Laptop,2,55000,Online
+DK00224,2026-06-09,Mombasa,Laptop,1,55000,In-Store
+DK00225,2026-05-25,Nairobi,Wireless Headphones,1,3500,Online
+DK00226,2026-03-31,Mombasa,Smartphone,2,15000,Online
+DK00227,2026-06-29,Mombasa,Laptop,1,55000,In-Store
+DK00228,2026-05-05,Nairobi,Soundbar,1,8000,Online
+DK00229,2026-03-25,Mombasa,Laptop,1,55000,In-Store
+DK00230,2026-05-12,Kisumu,Soundbar,1,8000,In-Store
+DK00231,2026-06-20,Nairobi,Smartphone,1,15000,In-Store
+DK00232,2026-03-04,Nairobi,Smartphone,1,15000,Online
+DK00233,2026-01-03,Nairobi,Soundbar,2,8000,Online
+DK00234,2026-01-28,Kisumu,Laptop,1,55000,Online
+DK00235,2026-05-13,Mombasa,Wireless Headphones,2,3500,In-Store
+DK00236,2026-03-19,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00237,2026-01-06,Mombasa,Smartphone,1,15000,In-Store
+DK00238,2026-04-02,Mombasa,Laptop,1,55000,Online
+DK00239,2026-06-13,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00240,2026-05-06,Mombasa,Wireless Headphones,1,3500,Online
+DK00241,2026-06-19,Nakuru,Smart TV,1,35000,In-Store
+DK00242,2026-05-04,Kisumu,Soundbar,2,8000,Online
+DK00243,2026-01-12,Kisumu,Soundbar,1,8000,Online
+DK00244,2026-01-11,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00245,2026-05-24,Nairobi,Smartphone,1,15000,Online
+DK00246,2026-06-16,Kisumu,Smartphone,1,15000,In-Store
+DK00247,2026-04-08,Kisumu,Wireless Headphones,1,3500,Online
+DK00248,2026-02-07,Kisumu,Smartphone,1,15000,Online
+DK00249,2026-06-03,Nakuru,Smartphone,1,15000,In-Store
+DK00250,2026-02-12,Nairobi,Smartphone,1,15000,In-Store
+DK00251,2026-05-22,Nairobi,Soundbar,2,8000,Online
+DK00252,2026-01-17,Nakuru,Smartphone,2,15000,Online
+DK00253,2026-03-22,Mombasa,Smartphone,2,15000,Online
+DK00254,2026-03-31,Nakuru,Soundbar,1,8000,Online
+DK00255,2026-04-13,Mombasa,Laptop,1,55000,Online
+DK00256,2026-06-17,Mombasa,Smart TV,1,35000,In-Store
+DK00257,2026-04-24,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00258,2026-04-30,Mombasa,Soundbar,1,8000,In-Store
+DK00259,2026-05-30,Nairobi,Soundbar,1,8000,In-Store
+DK00260,2026-03-30,Mombasa,Laptop,1,55000,In-Store
+DK00261,2026-05-11,Nairobi,Soundbar,2,8000,Online
+DK00262,2026-06-05,Nakuru,Wireless Headphones,2,3500,Online
+DK00263,2026-01-05,Nakuru,Wireless Headphones,1,3500,Online
+DK00264,2026-06-21,Nairobi,Smart TV,1,35000,In-Store
+DK00265,2026-06-06,Nairobi,Laptop,1,55000,In-Store
+DK00266,2026-04-12,Kisumu,Smartphone,3,15000,In-Store
+DK00267,2026-04-27,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00268,2026-05-24,Nairobi,Smartphone,1,15000,Online
+DK00269,2026-04-22,Nairobi,Soundbar,1,8000,Online
+DK00270,2026-06-27,Nakuru,Laptop,1,55000,Online
+DK00271,2026-04-28,Mombasa,Smartphone,3,15000,Online
+DK00272,2026-01-06,Nairobi,Soundbar,3,8000,In-Store
+DK00273,2026-02-21,Nairobi,Soundbar,1,8000,Online
+DK00274,2026-04-16,Nairobi,Smart TV,1,35000,Online
+DK00275,2026-04-26,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00276,2026-05-05,Nairobi,Laptop,1,55000,Online
+DK00277,2026-05-14,Mombasa,Smartphone,2,15000,Online
+DK00278,2026-04-09,Nakuru,Smartphone,2,15000,In-Store
+DK00279,2026-01-19,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00280,2026-02-24,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00281,2026-04-09,Nairobi,Smart TV,3,35000,Online
+DK00282,2026-02-18,Nairobi,Smartphone,3,15000,In-Store
+DK00283,2026-03-28,Mombasa,Smartphone,1,15000,In-Store
+DK00284,2026-06-10,Nairobi,Laptop,2,55000,In-Store
+DK00285,2026-02-17,Nairobi,Soundbar,1,8000,Online
+DK00286,2026-06-09,Kisumu,Soundbar,1,8000,In-Store
+DK00287,2026-06-26,Mombasa,Smart TV,3,35000,In-Store
+DK00288,2026-01-25,Kisumu,Soundbar,1,8000,In-Store
+DK00289,2026-06-14,Mombasa,Laptop,1,55000,In-Store
+DK00290,2026-05-15,Nairobi,Smart TV,1,35000,Online
+DK00291,2026-03-12,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00292,2026-05-07,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00293,2026-01-22,Nairobi,Soundbar,2,8000,In-Store
+DK00294,2026-03-25,Nakuru,Wireless Headphones,2,3500,In-Store
+DK00295,2026-03-09,Nakuru,Smart TV,1,35000,Online
+DK00296,2026-03-13,Kisumu,Wireless Headphones,1,3500,Online
+DK00297,2026-05-29,Nakuru,Smartphone,2,15000,In-Store
+DK00298,2026-02-28,Mombasa,Smartphone,2,15000,Online
+DK00299,2026-04-15,Nairobi,Wireless Headphones,1,3500,Online
+DK00300,2026-05-10,Nakuru,Smart TV,2,35000,In-Store
+DK00301,2026-05-23,Kisumu,Smart TV,2,35000,Online
+DK00302,2026-03-23,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00303,2026-05-22,Nakuru,Smartphone,1,15000,Online
+DK00304,2026-05-03,Nakuru,Laptop,1,55000,Online
+DK00305,2026-02-01,Nairobi,Smartphone,1,15000,Online
+DK00306,2026-05-07,Mombasa,Smartphone,1,15000,In-Store
+DK00307,2026-03-07,Mombasa,Laptop,1,55000,Online
+DK00308,2026-06-27,Mombasa,Wireless Headphones,2,3500,In-Store
+DK00309,2026-05-26,Nairobi,Wireless Headphones,3,3500,In-Store
+DK00310,2026-05-04,Nairobi,Smartphone,2,15000,Online
+DK00311,2026-05-06,Nakuru,Smartphone,1,15000,In-Store
+DK00312,2026-01-15,Kisumu,Smart TV,2,35000,Online
+DK00313,2026-05-29,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00314,2026-02-10,Kisumu,Soundbar,1,8000,Online
+DK00315,2026-05-17,Nairobi,Soundbar,1,8000,In-Store
+DK00316,2026-04-17,Kisumu,Smartphone,1,15000,Online
+DK00317,2026-06-28,Nairobi,Wireless Headphones,2,3500,In-Store
+DK00318,2026-01-05,Nakuru,Laptop,1,55000,In-Store
+DK00319,2026-04-30,Mombasa,Smartphone,1,15000,Online
+DK00320,2026-03-24,Mombasa,Smartphone,1,15000,In-Store
+DK00321,2026-04-13,Kisumu,Smart TV,3,35000,In-Store
+DK00322,2026-02-25,Nairobi,Smart TV,1,35000,In-Store
+DK00323,2026-05-04,Mombasa,Wireless Headphones,2,3500,Online
+DK00324,2026-02-02,Nairobi,Smart TV,2,35000,In-Store
+DK00325,2026-01-26,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00326,2026-01-09,Mombasa,Smart TV,2,35000,Online
+DK00327,2026-01-18,Mombasa,Smartphone,1,15000,Online
+DK00328,2026-01-04,Nairobi,Wireless Headphones,1,3500,Online
+DK00329,2026-03-04,Nairobi,Soundbar,1,8000,In-Store
+DK00330,2026-01-31,Nairobi,Smart TV,1,35000,Online
+DK00331,2026-05-04,Nairobi,Smartphone,1,15000,Online
+DK00332,2026-06-19,Kisumu,Soundbar,1,8000,Online
+DK00333,2026-06-27,Mombasa,Wireless Headphones,3,3500,Online
+DK00334,2026-03-01,Nairobi,Laptop,1,55000,In-Store
+DK00335,2026-06-09,Nairobi,Smart TV,1,35000,Online
+DK00336,2026-06-19,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00337,2026-04-18,Mombasa,Smart TV,1,35000,In-Store
+DK00338,2026-01-18,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00339,2026-01-11,Mombasa,Soundbar,1,8000,In-Store
+DK00340,2026-04-20,Nairobi,Soundbar,3,8000,In-Store
+DK00341,2026-04-21,Mombasa,Soundbar,2,8000,In-Store
+DK00342,2026-04-06,Nairobi,Soundbar,1,8000,In-Store
+DK00343,2026-04-16,Kisumu,Smartphone,1,15000,Online
+DK00344,2026-04-25,Nairobi,Laptop,1,55000,In-Store
+DK00345,2026-03-08,Kisumu,Smart TV,1,35000,Online
+DK00346,2026-06-03,Kisumu,Laptop,1,55000,Online
+DK00347,2026-05-12,Nairobi,Laptop,2,55000,In-Store
+DK00348,2026-03-12,Nairobi,Smartphone,3,15000,In-Store
+DK00349,2026-05-12,Kisumu,Smartphone,1,15000,Online
+DK00350,2026-05-01,Kisumu,Smart TV,1,35000,In-Store
+DK00351,2026-02-23,Kisumu,Smartphone,1,15000,Online
+DK00352,2026-02-08,Nairobi,Smart TV,1,35000,In-Store
+DK00353,2026-02-23,Mombasa,Smartphone,1,15000,Online
+DK00354,2026-05-23,Mombasa,Wireless Headphones,1,3500,Online
+DK00355,2026-01-28,Nairobi,Smartphone,1,15000,In-Store
+DK00356,2026-04-07,Kisumu,Laptop,1,55000,In-Store
+DK00357,2026-06-23,Mombasa,Smartphone,1,15000,Online
+DK00358,2026-01-15,Kisumu,Wireless Headphones,3,3500,Online
+DK00359,2026-04-10,Nairobi,Smartphone,1,15000,Online
+DK00360,2026-02-23,Mombasa,Wireless Headphones,3,3500,Online
+DK00361,2026-06-01,Nairobi,Laptop,1,55000,Online
+DK00362,2026-01-25,Mombasa,Smartphone,1,15000,In-Store
+DK00363,2026-04-19,Mombasa,Smart TV,1,35000,Online
+DK00364,2026-05-15,Nairobi,Smart TV,2,35000,In-Store
+DK00365,2026-01-24,Nakuru,Soundbar,3,8000,Online
+DK00366,2026-03-15,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00367,2026-01-27,Nakuru,Soundbar,1,8000,Online
+DK00368,2026-04-05,Mombasa,Smartphone,1,15000,In-Store
+DK00369,2026-01-01,Nairobi,Soundbar,1,8000,Online
+DK00370,2026-04-21,Kisumu,Smartphone,1,15000,Online
+DK00371,2026-02-23,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00372,2026-03-09,Kisumu,Smartphone,1,15000,In-Store
+DK00373,2026-05-23,Nairobi,Smart TV,1,35000,In-Store
+DK00374,2026-06-28,Kisumu,Wireless Headphones,1,3500,Online
+DK00375,2026-03-30,Mombasa,Soundbar,1,8000,In-Store
+DK00376,2026-05-17,Nairobi,Smartphone,1,15000,Online
+DK00377,2026-03-12,Nairobi,Soundbar,1,8000,Online
+DK00378,2026-04-28,Nakuru,Wireless Headphones,3,3500,In-Store
+DK00379,2026-03-12,Mombasa,Smartphone,1,15000,In-Store
+DK00380,2026-01-28,Kisumu,Laptop,1,55000,Online
+DK00381,2026-06-07,Mombasa,Smartphone,1,15000,In-Store
+DK00382,2026-03-09,Nairobi,Laptop,2,55000,In-Store
+DK00383,2026-03-06,Mombasa,Wireless Headphones,1,3500,Online
+DK00384,2026-03-10,Nairobi,Smartphone,1,15000,Online
+DK00385,2026-05-27,Nairobi,Wireless Headphones,1,3500,Online
+DK00386,2026-05-08,Kisumu,Smartphone,1,15000,Online
+DK00387,2026-02-01,Mombasa,Smartphone,2,15000,Online
+DK00388,2026-01-15,Nairobi,Soundbar,3,8000,Online
+DK00389,2026-04-23,Nairobi,Laptop,1,55000,Online
+DK00390,2026-01-26,Kisumu,Smartphone,1,15000,In-Store
+DK00391,2026-01-30,Kisumu,Smart TV,1,35000,Online
+DK00392,2026-05-24,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00393,2026-05-12,Kisumu,Laptop,2,55000,Online
+DK00394,2026-03-11,Mombasa,Wireless Headphones,3,3500,Online
+DK00395,2026-05-12,Kisumu,Laptop,1,55000,Online
+DK00396,2026-02-24,Nakuru,Laptop,1,55000,Online
+DK00397,2026-03-26,Nairobi,Smartphone,1,15000,Online
+DK00398,2026-01-20,Mombasa,Smart TV,1,35000,In-Store
+DK00399,2026-05-29,Kisumu,Laptop,1,55000,In-Store
+DK00400,2026-01-16,Nakuru,Laptop,1,55000,Online
+DK00401,2026-06-20,Kisumu,Smartphone,3,15000,In-Store
+DK00402,2026-03-17,Kisumu,Smartphone,1,15000,Online
+DK00403,2026-02-23,Nakuru,Wireless Headphones,2,3500,Online
+DK00404,2026-03-25,Nairobi,Smartphone,1,15000,In-Store
+DK00405,2026-04-24,Mombasa,Smartphone,2,15000,In-Store
+DK00406,2026-06-25,Kisumu,Laptop,1,55000,Online
+DK00407,2026-06-22,Mombasa,Smartphone,1,15000,In-Store
+DK00408,2026-05-01,Mombasa,Smart TV,1,35000,In-Store
+DK00409,2026-06-26,Mombasa,Smartphone,1,15000,In-Store
+DK00410,2026-02-10,Nairobi,Smart TV,1,35000,Online
+DK00411,2026-01-04,Mombasa,Smartphone,1,15000,In-Store
+DK00412,2026-05-04,Nairobi,Soundbar,2,8000,Online
+DK00413,2026-06-21,Kisumu,Soundbar,1,8000,In-Store
+DK00414,2026-01-03,Nakuru,Laptop,1,55000,In-Store
+DK00415,2026-06-10,Nairobi,Wireless Headphones,1,3500,Online
+DK00416,2026-05-15,Nakuru,Smartphone,1,15000,Online
+DK00417,2026-05-16,Nairobi,Smart TV,2,35000,In-Store
+DK00418,2026-02-26,Nairobi,Laptop,2,55000,In-Store
+DK00419,2026-05-30,Nairobi,Smartphone,1,15000,In-Store
+DK00420,2026-05-03,Mombasa,Laptop,1,55000,Online
+DK00421,2026-05-29,Nakuru,Smartphone,1,15000,Online
+DK00422,2026-06-22,Mombasa,Wireless Headphones,1,3500,Online
+DK00423,2026-04-05,Nairobi,Laptop,1,55000,In-Store
+DK00424,2026-06-29,Nairobi,Smart TV,1,35000,Online
+DK00425,2026-03-02,Kisumu,Smartphone,1,15000,In-Store
+DK00426,2026-04-11,Mombasa,Smartphone,2,15000,In-Store
+DK00427,2026-06-16,Mombasa,Wireless Headphones,3,3500,In-Store
+DK00428,2026-01-13,Nairobi,Smartphone,1,15000,In-Store
+DK00429,2026-02-16,Mombasa,Soundbar,1,8000,In-Store
+DK00430,2026-01-12,Nairobi,Soundbar,1,8000,In-Store
+DK00431,2026-05-08,Nairobi,Laptop,2,55000,In-Store
+DK00432,2026-02-19,Nairobi,Smartphone,1,15000,Online
+DK00433,2026-01-30,Mombasa,Smartphone,2,15000,Online
+DK00434,2026-01-18,Mombasa,Soundbar,1,8000,Online
+DK00435,2026-05-14,Nairobi,Smartphone,1,15000,In-Store
+DK00436,2026-02-22,Mombasa,Smartphone,3,15000,In-Store
+DK00437,2026-06-20,Nairobi,Smart TV,2,35000,Online
+DK00438,2026-06-10,Mombasa,Smartphone,1,15000,In-Store
+DK00439,2026-03-03,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00440,2026-02-25,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00441,2026-06-09,Mombasa,Smart TV,1,35000,In-Store
+DK00442,2026-03-01,Nairobi,Wireless Headphones,2,3500,In-Store
+DK00443,2026-04-16,Nairobi,Smart TV,1,35000,Online
+DK00444,2026-05-31,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00445,2026-06-05,Nairobi,Smartphone,1,15000,Online
+DK00446,2026-05-18,Kisumu,Smartphone,1,15000,Online
+DK00447,2026-04-21,Nairobi,Smart TV,1,35000,Online
+DK00448,2026-02-28,Nairobi,Smartphone,1,15000,In-Store
+DK00449,2026-02-13,Nakuru,Laptop,1,55000,In-Store
+DK00450,2026-04-01,Kisumu,Laptop,3,55000,Online
+DK00451,2026-06-29,Nairobi,Soundbar,2,8000,In-Store
+DK00452,2026-04-12,Nakuru,Smartphone,1,15000,In-Store
+DK00453,2026-03-14,Nakuru,Smartphone,2,15000,Online
+DK00454,2026-05-11,Mombasa,Laptop,1,55000,Online
+DK00455,2026-01-28,Nairobi,Wireless Headphones,2,3500,Online
+DK00456,2026-01-25,Nairobi,Smartphone,1,15000,In-Store
+DK00457,2026-03-08,Nairobi,Soundbar,1,8000,Online
+DK00458,2026-05-17,Kisumu,Smart TV,1,35000,Online
+DK00459,2026-06-03,Nairobi,Smartphone,1,15000,In-Store
+DK00460,2026-01-18,Kisumu,Smartphone,3,15000,In-Store
+DK00461,2026-01-26,Nakuru,Smart TV,2,35000,In-Store
+DK00462,2026-04-17,Kisumu,Laptop,1,55000,Online
+DK00463,2026-05-14,Nairobi,Soundbar,1,8000,In-Store
+DK00464,2026-06-21,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00465,2026-03-16,Nairobi,Smartphone,2,15000,Online
+DK00466,2026-02-01,Mombasa,Smartphone,3,15000,Online
+DK00467,2026-02-15,Nairobi,Wireless Headphones,2,3500,Online
+DK00468,2026-05-21,Nairobi,Laptop,2,55000,In-Store
+DK00469,2026-04-29,Nairobi,Smartphone,2,15000,Online
+DK00470,2026-03-12,Kisumu,Wireless Headphones,1,3500,Online
+DK00471,2026-04-12,Kisumu,Wireless Headphones,3,3500,In-Store
+DK00472,2026-02-12,Mombasa,Laptop,1,55000,Online
+DK00473,2026-04-13,Nairobi,Smartphone,1,15000,Online
+DK00474,2026-04-03,Kisumu,Soundbar,1,8000,Online
+DK00475,2026-01-30,Nakuru,Smartphone,1,15000,In-Store
+DK00476,2026-02-04,Nakuru,Smart TV,1,35000,In-Store
+DK00477,2026-05-26,Nakuru,Smart TV,1,35000,In-Store
+DK00478,2026-03-22,Nakuru,Soundbar,1,8000,In-Store
+DK00479,2026-01-25,Kisumu,Smartphone,2,15000,Online
+DK00480,2026-04-17,Nairobi,Smart TV,1,35000,In-Store
+DK00481,2026-04-01,Nakuru,Smartphone,1,15000,Online
+DK00482,2026-05-20,Nairobi,Wireless Headphones,1,3500,Online
+DK00483,2026-01-28,Mombasa,Smartphone,1,15000,In-Store
+DK00484,2026-05-28,Nakuru,Wireless Headphones,1,3500,Online
+DK00485,2026-06-14,Nakuru,Smartphone,1,15000,In-Store
+DK00486,2026-06-10,Nairobi,Soundbar,1,8000,In-Store
+DK00487,2026-01-28,Nakuru,Smartphone,1,15000,In-Store
+DK00488,2026-03-29,Nairobi,Wireless Headphones,1,3500,Online
+DK00489,2026-03-05,Nairobi,Smart TV,2,35000,Online
+DK00490,2026-06-15,Nairobi,Smartphone,1,15000,In-Store
+DK00491,2026-06-12,Kisumu,Laptop,1,55000,In-Store
+DK00492,2026-06-12,Nairobi,Laptop,1,55000,In-Store
+DK00493,2026-06-06,Mombasa,Smart TV,1,35000,In-Store
+DK00494,2026-03-30,Mombasa,Laptop,3,55000,Online
+DK00495,2026-01-04,Nairobi,Smart TV,1,35000,In-Store
+DK00496,2026-01-20,Kisumu,Smart TV,3,35000,Online
+DK00497,2026-02-10,Kisumu,Laptop,1,55000,In-Store
+DK00498,2026-03-08,Nairobi,Wireless Headphones,2,3500,Online
+DK00499,2026-04-05,Nairobi,Smartphone,1,15000,In-Store
+DK00500,2026-05-15,Nakuru,Smartphone,2,15000,In-Store
+DK00501,2026-02-12,Kisumu,Soundbar,1,8000,Online
+DK00502,2026-04-12,Nakuru,Smartphone,1,15000,In-Store
+DK00503,2026-03-29,Nairobi,Soundbar,1,8000,Online
+DK00504,2026-02-03,Nakuru,Smartphone,1,15000,In-Store
+DK00505,2026-02-14,Nakuru,Smartphone,1,15000,Online
+DK00506,2026-06-05,Nakuru,Smartphone,1,15000,Online
+DK00507,2026-03-29,Mombasa,Wireless Headphones,3,3500,In-Store
+DK00508,2026-04-27,Kisumu,Smartphone,1,15000,Online
+DK00509,2026-03-05,Mombasa,Wireless Headphones,1,3500,Online
+DK00510,2026-01-24,Kisumu,Smart TV,1,35000,In-Store
+DK00511,2026-02-19,Nairobi,Wireless Headphones,1,3500,Online
+DK00512,2026-05-29,Kisumu,Wireless Headphones,1,3500,Online
+DK00513,2026-06-09,Nairobi,Soundbar,1,8000,Online
+DK00514,2026-04-04,Nairobi,Smartphone,1,15000,Online
+DK00515,2026-04-28,Mombasa,Laptop,1,55000,In-Store
+DK00516,2026-03-06,Nairobi,Soundbar,1,8000,In-Store
+DK00517,2026-06-12,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00518,2026-04-05,Kisumu,Laptop,1,55000,Online
+DK00519,2026-04-27,Kisumu,Laptop,2,55000,In-Store
+DK00520,2026-04-08,Nakuru,Smartphone,1,15000,Online
+DK00521,2026-04-10,Nakuru,Smart TV,1,35000,Online
+DK00522,2026-06-27,Nairobi,Soundbar,1,8000,Online
+DK00523,2026-04-05,Kisumu,Soundbar,1,8000,Online
+DK00524,2026-05-04,Nairobi,Laptop,3,55000,Online
+DK00525,2026-03-18,Kisumu,Wireless Headphones,1,3500,Online
+DK00526,2026-02-19,Nairobi,Laptop,2,55000,In-Store
+DK00527,2026-01-27,Nairobi,Soundbar,1,8000,Online
+DK00528,2026-03-17,Nakuru,Soundbar,2,8000,Online
+DK00529,2026-04-15,Kisumu,Smartphone,3,15000,In-Store
+DK00530,2026-01-21,Nairobi,Soundbar,1,8000,In-Store
+DK00531,2026-06-22,Kisumu,Smart TV,2,35000,In-Store
+DK00532,2026-03-06,Nairobi,Soundbar,2,8000,In-Store
+DK00533,2026-06-21,Mombasa,Smartphone,1,15000,Online
+DK00534,2026-05-27,Kisumu,Soundbar,1,8000,Online
+DK00535,2026-01-21,Nairobi,Smart TV,3,35000,In-Store
+DK00536,2026-03-15,Nairobi,Smartphone,2,15000,In-Store
+DK00537,2026-01-25,Nairobi,Laptop,2,55000,In-Store
+DK00538,2026-05-27,Kisumu,Smartphone,1,15000,Online
+DK00539,2026-03-03,Nairobi,Smart TV,2,35000,In-Store
+DK00540,2026-02-26,Mombasa,Laptop,2,55000,In-Store
+DK00541,2026-05-22,Kisumu,Laptop,2,55000,In-Store
+DK00542,2026-04-23,Nairobi,Smart TV,3,35000,In-Store
+DK00543,2026-01-03,Nairobi,Smart TV,3,35000,Online
+DK00544,2026-01-14,Nairobi,Smartphone,2,15000,In-Store
+DK00545,2026-01-05,Mombasa,Smart TV,1,35000,Online
+DK00546,2026-01-25,Mombasa,Laptop,1,55000,In-Store
+DK00547,2026-03-19,Kisumu,Smartphone,1,15000,Online
+DK00548,2026-03-15,Mombasa,Wireless Headphones,1,3500,Online
+DK00549,2026-03-06,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00550,2026-06-15,Nakuru,Soundbar,1,8000,Online
+DK00551,2026-04-13,Nairobi,Soundbar,1,8000,In-Store
+DK00552,2026-05-09,Mombasa,Smartphone,3,15000,In-Store
+DK00553,2026-02-01,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00554,2026-02-09,Mombasa,Smart TV,2,35000,Online
+DK00555,2026-02-15,Nairobi,Laptop,1,55000,Online
+DK00556,2026-02-23,Nairobi,Soundbar,1,8000,In-Store
+DK00557,2026-05-12,Kisumu,Laptop,1,55000,In-Store
+DK00558,2026-01-09,Nairobi,Smartphone,1,15000,In-Store
+DK00559,2026-01-14,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00560,2026-04-27,Nakuru,Wireless Headphones,3,3500,Online
+DK00561,2026-01-25,Kisumu,Soundbar,2,8000,Online
+DK00562,2026-06-21,Nairobi,Wireless Headphones,1,3500,Online
+DK00563,2026-01-05,Nakuru,Smartphone,2,15000,Online
+DK00564,2026-04-27,Kisumu,Smart TV,1,35000,Online
+DK00565,2026-03-14,Kisumu,Wireless Headphones,1,3500,Online
+DK00566,2026-05-17,Nairobi,Wireless Headphones,2,3500,Online
+DK00567,2026-06-14,Nakuru,Soundbar,1,8000,Online
+DK00568,2026-03-10,Kisumu,Laptop,1,55000,Online
+DK00569,2026-04-22,Nairobi,Laptop,3,55000,Online
+DK00570,2026-05-22,Nairobi,Soundbar,1,8000,In-Store
+DK00571,2026-03-26,Nairobi,Smart TV,1,35000,Online
+DK00572,2026-03-30,Nairobi,Soundbar,1,8000,In-Store
+DK00573,2026-03-10,Nairobi,Laptop,1,55000,Online
+DK00574,2026-05-09,Nairobi,Laptop,1,55000,Online
+DK00575,2026-06-25,Nakuru,Smartphone,3,15000,In-Store
+DK00576,2026-02-16,Mombasa,Smartphone,1,15000,In-Store
+DK00577,2026-02-20,Mombasa,Laptop,1,55000,In-Store
+DK00578,2026-05-08,Mombasa,Smartphone,1,15000,Online
+DK00579,2026-03-09,Nakuru,Smartphone,1,15000,In-Store
+DK00580,2026-02-12,Mombasa,Smart TV,1,35000,In-Store
+DK00581,2026-01-12,Mombasa,Laptop,1,55000,In-Store
+DK00582,2026-03-02,Nairobi,Smartphone,1,15000,Online
+DK00583,2026-04-02,Nairobi,Smartphone,3,15000,Online
+DK00584,2026-02-21,Nairobi,Laptop,1,55000,Online
+DK00585,2026-05-10,Mombasa,Wireless Headphones,1,3500,Online
+DK00586,2026-03-21,Mombasa,Laptop,1,55000,Online
+DK00587,2026-03-01,Mombasa,Smartphone,1,15000,Online
+DK00588,2026-02-08,Kisumu,Soundbar,3,8000,In-Store
+DK00589,2026-03-15,Nairobi,Smartphone,1,15000,Online
+DK00590,2026-04-20,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00591,2026-04-19,Nakuru,Wireless Headphones,2,3500,In-Store
+DK00592,2026-04-27,Mombasa,Laptop,1,55000,Online
+DK00593,2026-03-10,Kisumu,Soundbar,1,8000,In-Store
+DK00594,2026-02-11,Mombasa,Smartphone,1,15000,In-Store
+DK00595,2026-06-29,Nairobi,Smartphone,1,15000,In-Store
+DK00596,2026-05-20,Nakuru,Smartphone,1,15000,Online
+DK00597,2026-06-12,Nairobi,Smart TV,1,35000,Online
+DK00598,2026-05-01,Nairobi,Wireless Headphones,1,3500,Online
+DK00599,2026-05-27,Mombasa,Soundbar,1,8000,Online
+DK00600,2026-06-23,Nairobi,Smartphone,1,15000,Online
+DK00601,2026-02-26,Nairobi,Laptop,1,55000,In-Store
+DK00602,2026-06-06,Mombasa,Smart TV,3,35000,Online
+DK00603,2026-04-15,Nairobi,Wireless Headphones,2,3500,Online
+DK00604,2026-06-21,Nakuru,Wireless Headphones,1,3500,Online
+DK00605,2026-06-20,Nairobi,Smart TV,2,35000,Online
+DK00606,2026-06-16,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00607,2026-06-17,Kisumu,Soundbar,1,8000,Online
+DK00608,2026-06-14,Mombasa,Smartphone,1,15000,Online
+DK00609,2026-05-02,Nakuru,Laptop,1,55000,In-Store
+DK00610,2026-06-28,Kisumu,Laptop,1,55000,In-Store
+DK00611,2026-06-15,Kisumu,Soundbar,2,8000,In-Store
+DK00612,2026-06-22,Mombasa,Smartphone,1,15000,Online
+DK00613,2026-04-04,Kisumu,Smart TV,3,35000,In-Store
+DK00614,2026-03-06,Nairobi,Laptop,1,55000,In-Store
+DK00615,2026-01-31,Nakuru,Soundbar,3,8000,Online
+DK00616,2026-01-24,Nairobi,Laptop,1,55000,Online
+DK00617,2026-05-02,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00618,2026-06-18,Nairobi,Smart TV,3,35000,In-Store
+DK00619,2026-04-29,Nairobi,Smartphone,2,15000,Online
+DK00620,2026-02-26,Nakuru,Smartphone,1,15000,In-Store
+DK00621,2026-02-03,Nairobi,Smart TV,1,35000,Online
+DK00622,2026-06-06,Nairobi,Smart TV,2,35000,In-Store
+DK00623,2026-01-08,Nakuru,Smart TV,1,35000,In-Store
+DK00624,2026-06-30,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00625,2026-02-01,Mombasa,Smart TV,3,35000,In-Store
+DK00626,2026-04-23,Nakuru,Smart TV,1,35000,Online
+DK00627,2026-06-02,Nairobi,Smartphone,1,15000,Online
+DK00628,2026-02-21,Kisumu,Smart TV,1,35000,In-Store
+DK00629,2026-01-13,Nairobi,Soundbar,2,8000,In-Store
+DK00630,2026-05-01,Nairobi,Wireless Headphones,1,3500,Online
+DK00631,2026-06-12,Nakuru,Smartphone,1,15000,Online
+DK00632,2026-06-02,Nakuru,Laptop,1,55000,In-Store
+DK00633,2026-03-18,Kisumu,Soundbar,2,8000,Online
+DK00634,2026-01-31,Mombasa,Laptop,1,55000,Online
+DK00635,2026-02-04,Nakuru,Soundbar,1,8000,In-Store
+DK00636,2026-06-08,Mombasa,Soundbar,1,8000,In-Store
+DK00637,2026-04-07,Mombasa,Smart TV,1,35000,Online
+DK00638,2026-05-11,Nairobi,Smart TV,1,35000,Online
+DK00639,2026-05-26,Mombasa,Smartphone,1,15000,Online
+DK00640,2026-06-17,Nairobi,Wireless Headphones,1,3500,Online
+DK00641,2026-02-21,Nairobi,Smart TV,1,35000,In-Store
+DK00642,2026-03-04,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00643,2026-04-19,Kisumu,Smartphone,1,15000,Online
+DK00644,2026-06-14,Kisumu,Smartphone,1,15000,In-Store
+DK00645,2026-06-01,Nakuru,Smartphone,2,15000,In-Store
+DK00646,2026-02-03,Nakuru,Laptop,1,55000,In-Store
+DK00647,2026-06-10,Nairobi,Soundbar,1,8000,Online
+DK00648,2026-05-12,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00649,2026-05-30,Nakuru,Smart TV,1,35000,Online
+DK00650,2026-06-18,Nairobi,Smartphone,3,15000,In-Store
+DK00651,2026-01-10,Mombasa,Smart TV,3,35000,In-Store
+DK00652,2026-04-10,Nairobi,Soundbar,1,8000,In-Store
+DK00653,2026-01-06,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00654,2026-01-28,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00655,2026-03-02,Mombasa,Soundbar,1,8000,In-Store
+DK00656,2026-06-24,Nairobi,Smartphone,3,15000,In-Store
+DK00657,2026-04-28,Nakuru,Soundbar,1,8000,Online
+DK00658,2026-04-17,Nakuru,Soundbar,1,8000,Online
+DK00659,2026-01-16,Mombasa,Soundbar,1,8000,In-Store
+DK00660,2026-02-19,Kisumu,Soundbar,3,8000,Online
+DK00661,2026-01-03,Mombasa,Laptop,1,55000,Online
+DK00662,2026-06-16,Nairobi,Laptop,1,55000,Online
+DK00663,2026-03-15,Mombasa,Laptop,1,55000,Online
+DK00664,2026-05-30,Nairobi,Smartphone,2,15000,In-Store
+DK00665,2026-01-09,Kisumu,Soundbar,1,8000,Online
+DK00666,2026-06-19,Nakuru,Smartphone,1,15000,Online
+DK00667,2026-04-08,Nairobi,Smartphone,1,15000,Online
+DK00668,2026-04-28,Nairobi,Soundbar,1,8000,Online
+DK00669,2026-05-12,Nairobi,Soundbar,1,8000,Online
+DK00670,2026-02-09,Nairobi,Smartphone,1,15000,Online
+DK00671,2026-03-28,Nairobi,Soundbar,1,8000,Online
+DK00672,2026-04-19,Kisumu,Smart TV,1,35000,In-Store
+DK00673,2026-05-24,Nairobi,Smart TV,1,35000,Online
+DK00674,2026-04-02,Kisumu,Laptop,1,55000,Online
+DK00675,2026-04-17,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00676,2026-04-02,Mombasa,Smartphone,3,15000,In-Store
+DK00677,2026-02-27,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00678,2026-01-03,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00679,2026-05-26,Mombasa,Smartphone,1,15000,In-Store
+DK00680,2026-02-16,Nairobi,Smartphone,1,15000,In-Store
+DK00681,2026-03-12,Kisumu,Smartphone,1,15000,In-Store
+DK00682,2026-02-18,Nairobi,Wireless Headphones,1,3500,Online
+DK00683,2026-05-06,Nairobi,Smart TV,1,35000,In-Store
+DK00684,2026-01-16,Nairobi,Laptop,1,55000,Online
+DK00685,2026-03-25,Nairobi,Laptop,3,55000,Online
+DK00686,2026-03-10,Mombasa,Smart TV,2,35000,In-Store
+DK00687,2026-04-19,Kisumu,Smart TV,2,35000,In-Store
+DK00688,2026-03-23,Nakuru,Wireless Headphones,1,3500,Online
+DK00689,2026-02-08,Nairobi,Laptop,2,55000,In-Store
+DK00690,2026-05-05,Kisumu,Soundbar,3,8000,Online
+DK00691,2026-05-23,Kisumu,Smartphone,2,15000,Online
+DK00692,2026-04-05,Nakuru,Laptop,1,55000,In-Store
+DK00693,2026-05-09,Nakuru,Smart TV,1,35000,Online
+DK00694,2026-03-24,Mombasa,Wireless Headphones,2,3500,Online
+DK00695,2026-04-10,Mombasa,Smart TV,3,35000,In-Store
+DK00696,2026-01-27,Nakuru,Smart TV,1,35000,Online
+DK00697,2026-04-17,Nairobi,Smart TV,1,35000,In-Store
+DK00698,2026-02-12,Kisumu,Laptop,1,55000,Online
+DK00699,2026-06-07,Nakuru,Smart TV,1,35000,Online
+DK00700,2026-02-27,Nakuru,Smart TV,1,35000,In-Store
+DK00701,2026-02-02,Nairobi,Wireless Headphones,1,3500,Online
+DK00702,2026-01-27,Mombasa,Smartphone,2,15000,Online
+DK00703,2026-01-03,Mombasa,Soundbar,1,8000,In-Store
+DK00704,2026-02-16,Nairobi,Wireless Headphones,1,3500,Online
+DK00705,2026-02-13,Kisumu,Smartphone,1,15000,Online
+DK00706,2026-03-15,Mombasa,Smartphone,2,15000,In-Store
+DK00707,2026-01-04,Mombasa,Wireless Headphones,1,3500,Online
+DK00708,2026-02-11,Nairobi,Laptop,1,55000,Online
+DK00709,2026-06-08,Nairobi,Wireless Headphones,1,3500,Online
+DK00710,2026-02-16,Kisumu,Wireless Headphones,1,3500,Online
+DK00711,2026-06-13,Kisumu,Smartphone,1,15000,Online
+DK00712,2026-05-22,Nairobi,Soundbar,3,8000,In-Store
+DK00713,2026-01-15,Mombasa,Smartphone,1,15000,Online
+DK00714,2026-03-07,Nairobi,Soundbar,1,8000,In-Store
+DK00715,2026-01-06,Nairobi,Smartphone,1,15000,In-Store
+DK00716,2026-03-11,Nairobi,Wireless Headphones,2,3500,In-Store
+DK00717,2026-03-14,Kisumu,Smart TV,1,35000,In-Store
+DK00718,2026-05-22,Kisumu,Laptop,1,55000,Online
+DK00719,2026-03-05,Mombasa,Smart TV,1,35000,Online
+DK00720,2026-05-20,Nairobi,Smartphone,2,15000,In-Store
+DK00721,2026-04-04,Nairobi,Soundbar,1,8000,Online
+DK00722,2026-05-10,Nairobi,Laptop,1,55000,In-Store
+DK00723,2026-03-01,Nakuru,Soundbar,1,8000,Online
+DK00724,2026-04-16,Nairobi,Soundbar,1,8000,In-Store
+DK00725,2026-01-06,Nairobi,Smart TV,1,35000,In-Store
+DK00726,2026-01-12,Nakuru,Smart TV,1,35000,In-Store
+DK00727,2026-05-14,Nakuru,Soundbar,1,8000,In-Store
+DK00728,2026-06-05,Mombasa,Smart TV,2,35000,In-Store
+DK00729,2026-01-15,Nairobi,Laptop,1,55000,In-Store
+DK00730,2026-04-24,Nairobi,Laptop,2,55000,In-Store
+DK00731,2026-01-21,Mombasa,Laptop,1,55000,In-Store
+DK00732,2026-06-20,Nairobi,Laptop,1,55000,In-Store
+DK00733,2026-01-12,Nairobi,Laptop,3,55000,Online
+DK00734,2026-02-02,Nakuru,Smartphone,1,15000,Online
+DK00735,2026-05-30,Nairobi,Smartphone,3,15000,In-Store
+DK00736,2026-01-22,Nairobi,Wireless Headphones,2,3500,In-Store
+DK00737,2026-01-30,Nairobi,Smartphone,1,15000,Online
+DK00738,2026-06-13,Nairobi,Laptop,1,55000,Online
+DK00739,2026-01-15,Nairobi,Soundbar,2,8000,In-Store
+DK00740,2026-02-27,Nakuru,Smartphone,1,15000,Online
+DK00741,2026-06-08,Nakuru,Smart TV,1,35000,Online
+DK00742,2026-06-23,Nakuru,Wireless Headphones,1,3500,Online
+DK00743,2026-01-24,Nairobi,Smart TV,1,35000,Online
+DK00744,2026-05-17,Nakuru,Smartphone,1,15000,Online
+DK00745,2026-06-20,Nakuru,Laptop,1,55000,In-Store
+DK00746,2026-02-10,Nairobi,Laptop,1,55000,Online
+DK00747,2026-04-04,Mombasa,Smart TV,1,35000,In-Store
+DK00748,2026-04-24,Kisumu,Smartphone,1,15000,Online
+DK00749,2026-03-05,Nairobi,Laptop,1,55000,In-Store
+DK00750,2026-03-03,Kisumu,Soundbar,1,8000,In-Store
+DK00751,2026-03-08,Mombasa,Laptop,1,55000,In-Store
+DK00752,2026-05-29,Nairobi,Smartphone,1,15000,Online
+DK00753,2026-01-05,Kisumu,Soundbar,1,8000,In-Store
+DK00754,2026-04-27,Mombasa,Smartphone,1,15000,In-Store
+DK00755,2026-04-06,Nairobi,Smartphone,1,15000,Online
+DK00756,2026-05-13,Mombasa,Smartphone,1,15000,Online
+DK00757,2026-05-12,Nairobi,Smart TV,1,35000,In-Store
+DK00758,2026-02-21,Mombasa,Smart TV,1,35000,Online
+DK00759,2026-03-23,Nairobi,Soundbar,2,8000,Online
+DK00760,2026-01-04,Nairobi,Smart TV,3,35000,Online
+DK00761,2026-03-28,Nairobi,Soundbar,1,8000,In-Store
+DK00762,2026-03-16,Nairobi,Soundbar,1,8000,Online
+DK00763,2026-05-28,Kisumu,Laptop,1,55000,In-Store
+DK00764,2026-05-10,Nakuru,Laptop,1,55000,Online
+DK00765,2026-03-09,Nairobi,Soundbar,1,8000,Online
+DK00766,2026-06-15,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00767,2026-04-01,Nakuru,Smartphone,3,15000,Online
+DK00768,2026-02-25,Nairobi,Soundbar,1,8000,Online
+DK00769,2026-04-26,Kisumu,Smartphone,1,15000,In-Store
+DK00770,2026-03-25,Kisumu,Laptop,2,55000,In-Store
+DK00771,2026-06-24,Mombasa,Soundbar,1,8000,In-Store
+DK00772,2026-06-09,Nakuru,Smart TV,2,35000,In-Store
+DK00773,2026-01-02,Nairobi,Laptop,1,55000,In-Store
+DK00774,2026-02-15,Nairobi,Wireless Headphones,1,3500,Online
+DK00775,2026-03-15,Nakuru,Smartphone,1,15000,In-Store
+DK00776,2026-05-04,Mombasa,Laptop,1,55000,Online
+DK00777,2026-04-21,Nairobi,Smart TV,1,35000,Online
+DK00778,2026-06-09,Nakuru,Laptop,1,55000,Online
+DK00779,2026-01-29,Nakuru,Smart TV,1,35000,Online
+DK00780,2026-04-25,Nakuru,Soundbar,1,8000,Online
+DK00781,2026-06-15,Nairobi,Laptop,3,55000,In-Store
+DK00782,2026-01-21,Mombasa,Smart TV,1,35000,In-Store
+DK00783,2026-05-02,Nakuru,Smart TV,1,35000,Online
+DK00784,2026-04-29,Mombasa,Laptop,2,55000,In-Store
+DK00785,2026-01-08,Kisumu,Smartphone,2,15000,In-Store
+DK00786,2026-01-08,Kisumu,Smart TV,1,35000,In-Store
+DK00787,2026-01-10,Kisumu,Smart TV,2,35000,Online
+DK00788,2026-02-20,Nairobi,Soundbar,1,8000,In-Store
+DK00789,2026-05-05,Kisumu,Smartphone,2,15000,In-Store
+DK00790,2026-06-10,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00791,2026-05-04,Mombasa,Smartphone,1,15000,In-Store
+DK00792,2026-05-10,Nairobi,Wireless Headphones,1,3500,Online
+DK00793,2026-03-14,Kisumu,Wireless Headphones,2,3500,Online
+DK00794,2026-02-08,Nairobi,Smartphone,3,15000,Online
+DK00795,2026-04-11,Nairobi,Soundbar,1,8000,Online
+DK00796,2026-05-06,Nairobi,Smart TV,1,35000,Online
+DK00797,2026-06-06,Nakuru,Wireless Headphones,3,3500,Online
+DK00798,2026-04-14,Kisumu,Smart TV,3,35000,In-Store
+DK00799,2026-06-26,Nakuru,Smartphone,1,15000,Online
+DK00800,2026-05-27,Nairobi,Smartphone,1,15000,Online
+DK00801,2026-06-21,Nairobi,Smart TV,1,35000,Online
+DK00802,2026-05-02,Nakuru,Laptop,1,55000,In-Store
+DK00803,2026-02-12,Mombasa,Smart TV,1,35000,Online
+DK00804,2026-05-30,Nakuru,Wireless Headphones,1,3500,Online
+DK00805,2026-04-25,Mombasa,Smartphone,1,15000,In-Store
+DK00806,2026-05-13,Nairobi,Wireless Headphones,1,3500,Online
+DK00807,2026-02-21,Kisumu,Smart TV,1,35000,In-Store
+DK00808,2026-01-15,Nairobi,Smart TV,1,35000,In-Store
+DK00809,2026-06-25,Nairobi,Soundbar,1,8000,Online
+DK00810,2026-03-27,Mombasa,Soundbar,3,8000,In-Store
+DK00811,2026-04-18,Kisumu,Smartphone,1,15000,In-Store
+DK00812,2026-01-12,Mombasa,Smart TV,1,35000,In-Store
+DK00813,2026-06-07,Mombasa,Soundbar,2,8000,Online
+DK00814,2026-02-21,Mombasa,Smartphone,1,15000,Online
+DK00815,2026-01-03,Nakuru,Smartphone,1,15000,Online
+DK00816,2026-02-20,Nakuru,Smartphone,2,15000,In-Store
+DK00817,2026-01-28,Mombasa,Smart TV,2,35000,In-Store
+DK00818,2026-03-26,Mombasa,Smart TV,1,35000,In-Store
+DK00819,2026-04-30,Nairobi,Smartphone,3,15000,Online
+DK00820,2026-03-01,Kisumu,Soundbar,1,8000,In-Store
+DK00821,2026-02-01,Kisumu,Smartphone,2,15000,In-Store
+DK00822,2026-02-12,Nairobi,Smart TV,2,35000,Online
+DK00823,2026-01-29,Nairobi,Smartphone,1,15000,Online
+DK00824,2026-06-05,Nairobi,Smart TV,1,35000,Online
+DK00825,2026-04-04,Mombasa,Smartphone,1,15000,Online
+DK00826,2026-01-10,Mombasa,Laptop,1,55000,In-Store
+DK00827,2026-03-17,Nairobi,Wireless Headphones,1,3500,Online
+DK00828,2026-03-25,Nakuru,Laptop,1,55000,In-Store
+DK00829,2026-05-09,Nairobi,Soundbar,1,8000,In-Store
+DK00830,2026-04-27,Nairobi,Smartphone,1,15000,Online
+DK00831,2026-05-11,Kisumu,Soundbar,2,8000,Online
+DK00832,2026-02-04,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00833,2026-01-04,Nakuru,Wireless Headphones,1,3500,Online
+DK00834,2026-03-24,Nakuru,Smartphone,1,15000,In-Store
+DK00835,2026-02-28,Nakuru,Smartphone,1,15000,Online
+DK00836,2026-03-03,Mombasa,Smartphone,1,15000,In-Store
+DK00837,2026-06-13,Mombasa,Soundbar,1,8000,In-Store
+DK00838,2026-06-06,Nairobi,Smartphone,1,15000,In-Store
+DK00839,2026-05-22,Mombasa,Laptop,1,55000,Online
+DK00840,2026-01-10,Nairobi,Laptop,1,55000,In-Store
+DK00841,2026-02-07,Nairobi,Laptop,1,55000,Online
+DK00842,2026-01-11,Kisumu,Wireless Headphones,1,3500,Online
+DK00843,2026-02-19,Nairobi,Smartphone,1,15000,Online
+DK00844,2026-03-27,Kisumu,Smartphone,1,15000,In-Store
+DK00845,2026-02-23,Nakuru,Laptop,2,55000,In-Store
+DK00846,2026-05-09,Mombasa,Soundbar,1,8000,In-Store
+DK00847,2026-01-17,Kisumu,Wireless Headphones,1,3500,Online
+DK00848,2026-06-08,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00849,2026-01-23,Nairobi,Smart TV,3,35000,Online
+DK00850,2026-04-02,Nairobi,Smartphone,1,15000,In-Store
+DK00851,2026-04-19,Nairobi,Laptop,2,55000,In-Store
+DK00852,2026-06-24,Nairobi,Soundbar,1,8000,In-Store
+DK00853,2026-01-04,Mombasa,Wireless Headphones,1,3500,Online
+DK00854,2026-05-02,Kisumu,Smartphone,2,15000,In-Store
+DK00855,2026-06-05,Kisumu,Wireless Headphones,2,3500,Online
+DK00856,2026-06-22,Nakuru,Laptop,1,55000,Online
+DK00857,2026-05-22,Nakuru,Soundbar,3,8000,In-Store
+DK00858,2026-06-04,Kisumu,Smart TV,1,35000,Online
+DK00859,2026-01-03,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00860,2026-06-12,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00861,2026-02-28,Nairobi,Laptop,1,55000,Online
+DK00862,2026-01-06,Kisumu,Laptop,1,55000,In-Store
+DK00863,2026-01-01,Mombasa,Smartphone,2,15000,Online
+DK00864,2026-06-09,Nakuru,Laptop,2,55000,Online
+DK00865,2026-03-12,Nairobi,Smart TV,1,35000,Online
+DK00866,2026-04-30,Nakuru,Smartphone,1,15000,In-Store
+DK00867,2026-04-08,Nairobi,Smart TV,1,35000,Online
+DK00868,2026-01-26,Nairobi,Smartphone,2,15000,Online
+DK00869,2026-06-16,Kisumu,Smartphone,3,15000,Online
+DK00870,2026-01-16,Nairobi,Laptop,1,55000,Online
+DK00871,2026-01-09,Mombasa,Smart TV,1,35000,Online
+DK00872,2026-01-22,Nairobi,Laptop,1,55000,In-Store
+DK00873,2026-03-21,Nairobi,Laptop,1,55000,In-Store
+DK00874,2026-03-30,Nakuru,Smartphone,1,15000,In-Store
+DK00875,2026-05-21,Kisumu,Laptop,3,55000,In-Store
+DK00876,2026-01-13,Nairobi,Wireless Headphones,1,3500,In-Store
+DK00877,2026-06-28,Nairobi,Smartphone,1,15000,In-Store
+DK00878,2026-03-17,Kisumu,Smart TV,1,35000,Online
+DK00879,2026-06-11,Mombasa,Smartphone,1,15000,In-Store
+DK00880,2026-01-30,Kisumu,Wireless Headphones,1,3500,Online
+DK00881,2026-03-08,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00882,2026-01-08,Nakuru,Laptop,1,55000,In-Store
+DK00883,2026-03-25,Mombasa,Soundbar,1,8000,In-Store
+DK00884,2026-01-20,Kisumu,Smart TV,1,35000,Online
+DK00885,2026-03-21,Nairobi,Smartphone,1,15000,Online
+DK00886,2026-01-16,Nakuru,Smartphone,3,15000,Online
+DK00887,2026-03-22,Nairobi,Wireless Headphones,2,3500,In-Store
+DK00888,2026-06-13,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00889,2026-01-04,Mombasa,Smart TV,2,35000,Online
+DK00890,2026-04-30,Nairobi,Laptop,1,55000,In-Store
+DK00891,2026-04-10,Kisumu,Wireless Headphones,1,3500,In-Store
+DK00892,2026-04-26,Mombasa,Laptop,1,55000,In-Store
+DK00893,2026-01-24,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00894,2026-06-27,Nairobi,Soundbar,1,8000,In-Store
+DK00895,2026-05-11,Kisumu,Smart TV,2,35000,Online
+DK00896,2026-04-12,Nairobi,Smart TV,2,35000,Online
+DK00897,2026-01-30,Nairobi,Soundbar,3,8000,Online
+DK00898,2026-06-18,Mombasa,Laptop,3,55000,Online
+DK00899,2026-02-10,Nakuru,Laptop,1,55000,In-Store
+DK00900,2026-04-29,Mombasa,Smart TV,2,35000,Online
+DK00901,2026-02-04,Mombasa,Laptop,1,55000,Online
+DK00902,2026-03-22,Nakuru,Soundbar,1,8000,Online
+DK00903,2026-01-05,Nairobi,Wireless Headphones,1,3500,Online
+DK00904,2026-05-07,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00905,2026-06-01,Kisumu,Smartphone,1,15000,Online
+DK00906,2026-03-20,Kisumu,Soundbar,2,8000,In-Store
+DK00907,2026-05-28,Nairobi,Smartphone,1,15000,In-Store
+DK00908,2026-02-04,Nakuru,Soundbar,1,8000,In-Store
+DK00909,2026-01-09,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00910,2026-01-11,Mombasa,Soundbar,1,8000,Online
+DK00911,2026-01-07,Mombasa,Smartphone,1,15000,Online
+DK00912,2026-06-17,Kisumu,Smartphone,1,15000,Online
+DK00913,2026-04-09,Mombasa,Smart TV,1,35000,Online
+DK00914,2026-03-08,Nairobi,Wireless Headphones,2,3500,Online
+DK00915,2026-02-14,Nakuru,Wireless Headphones,3,3500,Online
+DK00916,2026-06-01,Kisumu,Smartphone,1,15000,Online
+DK00917,2026-03-24,Mombasa,Smartphone,1,15000,Online
+DK00918,2026-03-20,Mombasa,Soundbar,1,8000,In-Store
+DK00919,2026-02-18,Kisumu,Laptop,1,55000,In-Store
+DK00920,2026-01-13,Nairobi,Smart TV,2,35000,In-Store
+DK00921,2026-04-16,Mombasa,Wireless Headphones,1,3500,Online
+DK00922,2026-04-11,Nairobi,Wireless Headphones,3,3500,Online
+DK00923,2026-05-29,Mombasa,Soundbar,1,8000,Online
+DK00924,2026-01-17,Kisumu,Soundbar,3,8000,Online
+DK00925,2026-06-09,Nairobi,Laptop,3,55000,Online
+DK00926,2026-05-12,Kisumu,Laptop,1,55000,Online
+DK00927,2026-05-12,Kisumu,Smartphone,1,15000,In-Store
+DK00928,2026-03-12,Kisumu,Wireless Headphones,1,3500,Online
+DK00929,2026-03-26,Nairobi,Laptop,1,55000,Online
+DK00930,2026-05-25,Kisumu,Wireless Headphones,1,3500,Online
+DK00931,2026-03-09,Nairobi,Smartphone,1,15000,Online
+DK00932,2026-01-19,Nairobi,Smart TV,1,35000,In-Store
+DK00933,2026-03-02,Nairobi,Smartphone,1,15000,Online
+DK00934,2026-01-05,Mombasa,Soundbar,1,8000,In-Store
+DK00935,2026-01-30,Kisumu,Smartphone,3,15000,In-Store
+DK00936,2026-01-23,Kisumu,Smart TV,1,35000,Online
+DK00937,2026-05-18,Nakuru,Wireless Headphones,1,3500,In-Store
+DK00938,2026-06-20,Mombasa,Smart TV,1,35000,In-Store
+DK00939,2026-03-04,Nairobi,Wireless Headphones,2,3500,Online
+DK00940,2026-02-19,Nairobi,Wireless Headphones,3,3500,Online
+DK00941,2026-05-21,Nairobi,Laptop,1,55000,In-Store
+DK00942,2026-04-17,Kisumu,Soundbar,1,8000,In-Store
+DK00943,2026-03-07,Kisumu,Laptop,1,55000,Online
+DK00944,2026-03-12,Mombasa,Smartphone,3,15000,Online
+DK00945,2026-06-25,Nairobi,Smartphone,1,15000,In-Store
+DK00946,2026-02-09,Mombasa,Smartphone,1,15000,In-Store
+DK00947,2026-03-31,Kisumu,Wireless Headphones,1,3500,Online
+DK00948,2026-01-29,Nairobi,Smartphone,1,15000,Online
+DK00949,2026-04-30,Mombasa,Soundbar,1,8000,Online
+DK00950,2026-04-18,Nairobi,Smartphone,2,15000,Online
+DK00951,2026-02-12,Kisumu,Wireless Headphones,2,3500,In-Store
+DK00952,2026-03-25,Mombasa,Smartphone,2,15000,In-Store
+DK00953,2026-01-16,Mombasa,Smartphone,1,15000,In-Store
+DK00954,2026-06-23,Mombasa,Laptop,1,55000,In-Store
+DK00955,2026-06-02,Nairobi,Wireless Headphones,3,3500,Online
+DK00956,2026-05-31,Nakuru,Smartphone,2,15000,In-Store
+DK00957,2026-02-27,Nairobi,Smart TV,1,35000,Online
+DK00958,2026-05-29,Nairobi,Soundbar,1,8000,Online
+DK00959,2026-02-20,Nairobi,Smartphone,1,15000,In-Store
+DK00960,2026-01-12,Nairobi,Smartphone,1,15000,In-Store
+DK00961,2026-01-31,Kisumu,Smart TV,1,35000,Online
+DK00962,2026-03-23,Nairobi,Wireless Headphones,1,3500,Online
+DK00963,2026-04-04,Mombasa,Smartphone,1,15000,In-Store
+DK00964,2026-01-01,Kisumu,Smartphone,1,15000,In-Store
+DK00965,2026-06-15,Nairobi,Soundbar,1,8000,Online
+DK00966,2026-06-03,Nairobi,Smart TV,1,35000,In-Store
+DK00967,2026-03-16,Mombasa,Wireless Headphones,1,3500,In-Store
+DK00968,2026-02-16,Nairobi,Smartphone,2,15000,Online
+DK00969,2026-04-21,Nairobi,Soundbar,1,8000,In-Store
+DK00970,2026-03-19,Kisumu,Wireless Headphones,1,3500,Online
+DK00971,2026-04-26,Nairobi,Smartphone,2,15000,In-Store
+DK00972,2026-02-12,Kisumu,Smart TV,1,35000,Online
+DK00973,2026-02-18,Nairobi,Smart TV,1,35000,Online
+DK00974,2026-01-16,Nakuru,Smartphone,1,15000,Online
+DK00975,2026-04-21,Nakuru,Laptop,3,55000,Online
+DK00976,2026-06-23,Kisumu,Wireless Headphones,1,3500,Online
+DK00977,2026-06-12,Nairobi,Soundbar,2,8000,Online
+DK00978,2026-04-13,Mombasa,Smartphone,1,15000,Online
+DK00979,2026-01-25,Kisumu,Smartphone,2,15000,Online
+DK00980,2026-03-25,Nairobi,Laptop,1,55000,Online
+DK00981,2026-03-20,Mombasa,Soundbar,1,8000,Online
+DK00982,2026-05-21,Nairobi,Laptop,1,55000,In-Store
+DK00983,2026-02-20,Mombasa,Laptop,1,55000,Online
+DK00984,2026-03-30,Mombasa,Smartphone,3,15000,In-Store
+DK00985,2026-03-31,Nairobi,Smartphone,1,15000,In-Store
+DK00986,2026-06-03,Nairobi,Smart TV,1,35000,In-Store
+DK00987,2026-06-21,Nairobi,Smartphone,2,15000,In-Store
+DK00988,2026-05-27,Nairobi,Soundbar,1,8000,In-Store
+DK00989,2026-02-25,Nairobi,Soundbar,2,8000,Online
+DK00990,2026-01-05,Nairobi,Laptop,1,55000,Online
+DK00991,2026-04-21,Nakuru,Smartphone,2,15000,Online
+DK00992,2026-03-30,Nairobi,Soundbar,3,8000,Online
+DK00993,2026-06-19,Mombasa,Smart TV,1,35000,In-Store
+DK00994,2026-01-07,Nakuru,Smart TV,1,35000,Online
+DK00995,2026-04-26,Mombasa,Smartphone,1,15000,In-Store
+DK00996,2026-03-12,Nakuru,Laptop,1,55000,In-Store
+DK00997,2026-04-04,Nairobi,Smart TV,3,35000,In-Store
+DK00998,2026-03-08,Nakuru,Smartphone,1,15000,Online
+DK00999,2026-01-15,Mombasa,Smartphone,1,15000,Online
+DK01000,2026-05-25,Kisumu,Wireless Headphones,1,3500,In-Store
