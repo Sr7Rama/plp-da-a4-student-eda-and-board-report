@@ -1,5 +1,7 @@
 # Student Performance EDA and Duka Board Visual Report
 
+**Repository:** `plp-da-a4-student-eda-and-board-report`
+
 This project contains two data-analysis engagements: a student-performance exploratory data analysis (EDA) and a one-page H1 2026 sales report for Duka Electronics. Both use reproducible, seeded sample data generated locally; the Duka figures are illustrative and are not audited company results.
 
 ## Engagements
